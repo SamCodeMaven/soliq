@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: uz.xnarx.soliq.SoliqApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 18.07 s -- in uz.xnarx.soliq.SoliqApplicationTests
